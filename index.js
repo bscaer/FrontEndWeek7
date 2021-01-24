@@ -1,16 +1,11 @@
-// Create a website using only HTML that meets the following criteria.
-// Website must contain:
-//      a.	At least 3 pages
-//      b.	Links to navigate between all pages present on each page
-//      c.	A list
-//      d.	3 images
-//      e.	2 different size headers
-//      f.	A table
-//      g.	A form
+// This is a simple four-page website about fetal development. 
+
+// The home page, index.html, displays a table listing details of the the stages of fetal development - Zygote/Blastocyst, Embryo, and Fetus. 
+// It links to the three other pages for 0-6 weeks, 6-12 weeks, and 12-40 weeks of fetal development 
+// It prompts the user to enter their baby's name and provides a "Save" button.
 //
-// Fetal development - One webpage per trimester, an image and a description per developmental stage
-//      First trimester: 0 weeks, 8 weeks
-//      Second trimester: 16 weeks, 24 weeks
-//      Third trimester: 32 weeks, 40 weeks
-// 
-// 
+// The 0-6 Weeks page, 0-6weeks.html, displays a graphic showing prenatal development from 0 to 6 weeks and has links to the other three pages.
+//
+// The 6-12 Weeks page, 6-12weeks.html, displays a graphic showing prenatal development from 6 to 12 weeks and has links to the other three pages.
+//
+// The 12-40 Weeks page, 12-40weeks.html, displays a graphic showing prenatal development from 12 to 40 weeks and has links to the other three pages.
